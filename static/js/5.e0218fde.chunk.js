@@ -1,0 +1,2 @@
+(this.webpackJsonpmsas=this.webpackJsonpmsas||[]).push([[5],{86:function(t,e,n){"use strict";n.r(e),n.d(e,"default",(function(){return i}));var s=n(2),c=n(0);function i(){return Object(s.useEffect)((function(){document.title="Not Found - Instagram"}),[]),Object(c.jsx)("div",{style:{height:"50vh"},children:Object(c.jsx)("h1",{children:"NOT FOUND PAGE"})})}}}]);
+//# sourceMappingURL=5.e0218fde.chunk.js.map

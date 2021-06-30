@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/sign-in/sign-in.component.jsx"],"names":["SignIn"],"mappings":"6FAAA,uBASeA,UAPf,WACI,OACI","file":"static/js/4.c7e6c058.chunk.js","sourcesContent":["import React from 'react';\n\nfunction SignIn(){\n    return (\n        <div>\n            This Is the sign in component\n        </div>\n    )\n};\nexport default SignIn;"],"sourceRoot":""}
